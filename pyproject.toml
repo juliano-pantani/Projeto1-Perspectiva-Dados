@@ -1,0 +1,16 @@
+[project]
+name = "projeto1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "jupyter>=1.1.1",
+    "nltk>=3.9.4",
+    "notebook>=7.5.6",
+    "opencv-python>=4.13.0.92",
+    "pandas>=3.0.3",
+    "requests>=2.34.2",
+    "scikit-learn>=1.8.0",
+]
