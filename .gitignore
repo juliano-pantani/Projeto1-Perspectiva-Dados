@@ -10,6 +10,8 @@ wheels/
 # Virtual environments
 .venv
 
+meus_dados_anime/
+.Rhistory
 
 
 .ipynb_checkpoints/
